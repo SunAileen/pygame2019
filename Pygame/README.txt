@@ -26,4 +26,6 @@ drawLives function taken from: Kidscancode. (n.d.). kidscancode/pygame_tutorials
 
 Displaying message functions (messageDisplay and textObjects) copied from: (n.d.). Retrieved from https://pythonprogramming.net/displaying-text-pygame-screen/
 
-Button class inspired from: Mekire. (n.d.). Mekire/pygame-button. Retrieved from https://github.com/Mekire/pygame-button/blob/master/button/button.py 
+Button class inspired from: Mekire. (n.d.). Mekire/pygame-button. Retrieved from https://github.com/Mekire/pygame-button/blob/master/button/button.py
+
+Uploaded to Github on 2023-02-01
